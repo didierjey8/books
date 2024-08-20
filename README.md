@@ -8,7 +8,7 @@ This project is a book search application built with React and Bootstrap. Users 
 2. Install the dependencies: `npm install`
 3. Create a `.env` file in the root with this env: `VITE_APP_GOOGLE_BOOKS_API=https://www.googleapis.com/books/v1/volumes`
 4. Start the application: `npm run dev`
-5. You can visit also the url:
+5. You can visit also the url: https://books-js2nr.ondigitalocean.app/
 
 ## Usage
 
