@@ -7,7 +7,8 @@ This project is a book search application built with React and Bootstrap. Users 
 1. Clone this repository: `git clone https://github.com/didierjey8/books.git`
 2. Install the dependencies: `npm install`
 3. Create a `.env` file in the root with this env: `VITE_APP_GOOGLE_BOOKS_API=https://www.googleapis.com/books/v1/volumes`
-4. Start the application: `npm dev`
+4. Start the application: `npm run dev`
+5. You can visit also the url:
 
 ## Usage
 
