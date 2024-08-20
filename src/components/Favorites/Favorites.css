@@ -1,0 +1,12 @@
+.favorites {
+    margin-top: 20px;
+}
+
+.img-thumbnail {
+    width: 50px;
+    height: auto;
+}
+
+.remove-button {
+    margin-left: auto;
+}
